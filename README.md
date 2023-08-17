@@ -1,3 +1,1 @@
-- | Hi, I’m @Miltlilc
-	- | I'm a backend developer
-	- | I'm mainly use C++
+
